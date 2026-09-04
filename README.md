@@ -21,7 +21,7 @@ application or API code:
 |---|---|
 | Entity relationship diagram + schema notes | [`database/RaceDay-ERD.png`](database/RaceDay-ERD.png) |
 | SQL Server schema + seed data script | [`database/RaceDay-Schema.sql`](database/RaceDay-Schema.sql) |
-| RESTful API endpoint specification | [`documents/API-specification.docx`] ([.docx](documentsAPI-specification.docx)) |
+| RESTful API endpoint specification | [`documents/API-specification.docx`] (documentsAPI-specification.docx) |
 
 
 The schema is a normalized (3NF), 10-table design (`Roles`, `Clubs`,
